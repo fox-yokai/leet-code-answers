@@ -19,8 +19,7 @@ function hIndex(citations) {
             hIndex = i+1
         } else {
             break
-        }
-        
+        } 
     }
     return hIndex;
 }
